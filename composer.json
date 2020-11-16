@@ -1,0 +1,19 @@
+{
+    "name": "afzalsabbir/contact",
+    "description": "A contact package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AfzalSabbir",
+            "email": "afzalbd1@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AfzalSabbir\\Contact\\": "src/"
+        }
+    }
+}
